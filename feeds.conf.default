@@ -9,5 +9,5 @@ src-git telephony https://github.com/coolsnowwolf/telephony.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
-src-git node https://github.com/nxhack/openwrt-node-packages.git;openwrt-19.07
+#src-git node https://github.com/nxhack/openwrt-node-packages.git;openwrt-19.07
 
